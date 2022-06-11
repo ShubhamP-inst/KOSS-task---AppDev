@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RedditLite</string>
+    <string name="textView00">Search Bar</string>
+    <string name="textView11">r/KGP_meme_space</string>
+    <string name="textview12">KOSS task</string>
+    <string name="upvote1">Upvote</string>
+    <string name="textView13">0</string>
+    <string name="downvote1">Downvote</string>
+    <string name="textView21">r/KGP_meme_space</string>
+    <string name="textview22">KOSS task</string>
+    <string name="upvote2">Upvote</string>
+    <string name="textView23">0</string>
+    <string name="downvote2">Downvote</string>
+    <string name="textView31">r/KGP_meme_space</string>
+    <string name="textview32">KOSS task</string>
+    <string name="upvote3">Upvote</string>
+    <string name="textView33">0</string>
+    <string name="downvote3">Downvote</string>
+</resources>
