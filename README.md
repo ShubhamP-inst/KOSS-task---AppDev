@@ -1,1 +1,14 @@
 # KOSS-task---AppDev
+For the second round of the selections of the KOSS, I was assigned the task to make a frontEnd android application with some sample images and text displaying on the home screen of the application. I have summarized all the steps which I followed during making this short project and also breifly mentioned about knowledge which it led me to gain.
+
+# Planning (The initial phase)
+Before this task, I had absolutely zero knowledge about JAVA, KOTLIN, Android Studio, DART language or any other entities related to application development. So first of all I reached out to a few people whom I know had experience in App develepment. After a few QnA with them and google searhes, I came to conclusion that as a beginner I should start off with either flutter or Android Studio with JAVA being the language for coding. Both of the options have their own pros and cons. Its when I came to know that flutter (using DART language) could help me build an application in a real short duration of time and since I had only limited time so choosing it made sense. But when I approached a senior of KOSS, I came to know that its not about whehter you were able to properly the complete project or not but what matters is what the learned during the process. So after lots of thoughts and influence by others, I finally settled my decision of using JAVA and androind studio.
+
+# Learning Period
+Since I had no knowledge of JAVA at that time, I first started off by studying the Basics of JAVA which included variables, literals, methods, classes, constructors and objects, static and non-static props, inheritance, etc. The sources which I referred includes: Youtube Playlists, JAVA 14 API DOCUMENTATION (by oracle), Google. This is the part I messed up a little. Actually I gave way too much fraction of the available time on learning JAVA. I was supposed to start off android studio just after getting little familiar with the syntax, methods and all. With 2 days prior to deadline I finally started learning android studio. Since I was short deadline so I was going real quick. I gained insights about the differnt tabs and groups in the Studio which are most important while development. The documentation and the YT videos helped me to learn about Building, Using the design palette for proper layout of different views and viewgroups, virtual device, XML and java files, etc. 
+
+#Final project
+When I finally came to making the final application for submission, I encountered few errors and app crashes(s). I gave most of the time in designing the layout which proved to be a much more confusing and tough process than what I thought it to be. After completing the design of proper layout, I hardly had anytime left which made it impossible for me to add the functioning the application. 
+
+
+THANK YOU
